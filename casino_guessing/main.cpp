@@ -2,7 +2,6 @@
 #include <iostream>
 #include <random>
 #include <string>
-#include <thread>
 
 // The range that you should guess the number between
 #define GUESSING_RANGE_MIN 0
